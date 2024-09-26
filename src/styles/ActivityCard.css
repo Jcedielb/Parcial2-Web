@@ -1,0 +1,22 @@
+.activity-card {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+    overflow: hidden;
+    color: white;
+    
+  }
+  
+  .activity-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .activity-details {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+  
