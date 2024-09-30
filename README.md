@@ -1,4 +1,3 @@
-# Triathlon Tracking App - README
 
 ## Tecnologías utilizadas
 
