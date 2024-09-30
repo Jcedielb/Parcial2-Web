@@ -1,9 +1,10 @@
-import 'bootstrap/dist/css/bootstrap.min.css';  // Importar los estilos de Bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';  
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App'; 
 import { BrowserRouter } from 'react-router-dom'; 
+import './i18n';  
 
 ReactDOM.render(
   <React.StrictMode>

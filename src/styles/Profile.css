@@ -5,6 +5,8 @@
     padding: 20px;
     background-color: #007b83;
     color: white;
+    border-radius: 30px;
+    margin-top: 20px;
   }
   
   .profile-image {
